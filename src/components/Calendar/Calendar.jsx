@@ -1,3 +1,6 @@
+import { useState } from "react";
+import WeekView from "./WeekView";
+
 export default function Calendar() {
     const [view, setView] = useState("week");
 
