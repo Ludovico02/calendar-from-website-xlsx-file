@@ -8,7 +8,7 @@ export default function WeekView({ data }) {
             {days.map(day => (
                 <div key={day} className="day-column">
                     <h3>{day}</h3>
-                    {}
+                    {data[1].teacher}
                 </div>
             ))}
         </div>

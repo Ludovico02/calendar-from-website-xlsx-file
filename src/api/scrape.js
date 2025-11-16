@@ -1,4 +1,5 @@
 import puppeteer from "puppeteer";
+import fs from "fs";
 
 // Sito che ci è stato dato con la tabella degli orari, è la pagina per il primo anno
 const url = "https://cal-stud-itsaa.surge.sh/?year=1";
@@ -44,6 +45,18 @@ export async function scrape() {
     // console.log("Dati estratti:", getData);
 
     await browser.close();
+
+    return getData;
 }
+
+/*
+* Salvo i dati su un file JSON
+* Farò il fetch di questo file su calendar
+* Questo è uno screenshot della pagina attuale in futuro posso creare un server locale che ogni tot tempo va a fare lo scraping di nuovo per vedere eventuali aggiornamenti
+*/
+scrape().then((data) => {
+    fs.writeFileSync("./src/api/timetable.json", JSON.stringify(data, null, 2));
+    console.log("Dati salvati su file json");
+});
 
 // scrape();

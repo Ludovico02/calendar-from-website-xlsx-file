@@ -1,8 +1,20 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { scrape } from "../../api/scrape";
 import WeekView from "./WeekView";
 
 export default function Calendar() {
     const [view, setView] = useState("week");
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        async function fetchTimetable() {
+            const response = await fetch();
+            const data = await response.json();
+            setData(data);
+        }
+
+        fetchTimetable();
+    }, [])
 
     return (
         <div>
@@ -12,7 +24,7 @@ export default function Calendar() {
             </div>
             
             {view === "week" ? (
-                <WeekView />
+                <WeekView data={data} />
             ) : (
                 <MonthView />
             )}

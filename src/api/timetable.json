@@ -1,0 +1,1523 @@
+[
+  {
+    "day": "mar 18/11/25",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": "Valle Center - Aula Arancione"
+  },
+  {
+    "day": "mar 18/11/25",
+    "start": "11:00",
+    "end": "13:00",
+    "teacher": "CRISTIANO ANTONIO",
+    "module": "Gestione del processo formativo 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": "Valle Center - Aula Arancione"
+  },
+  {
+    "day": "mar 18/11/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Fondamenti di programmazione",
+    "subject": "Coding",
+    "class": "Valle Center - Aula Arancione"
+  },
+  {
+    "day": "mer 19/11/25",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 19/11/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Fondamenti di programmazione",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "ven 21/11/25",
+    "start": "10:00",
+    "end": "13:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 21/11/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Fondamenti di programmazione",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "lun 24/11/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "PIVA ANTONIO",
+    "module": "Informatica giuridica",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "mar 25/11/25",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 25/11/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Fondamenti di programmazione",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "mer 26/11/25",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "ven 28/11/25",
+    "start": "09:00",
+    "end": "12:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 28/11/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Fondamenti di programmazione",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "lun 01/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "PIVA ANTONIO",
+    "module": "Informatica giuridica",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "mar 02/12/25",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 02/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Fondamenti di programmazione",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "mer 03/12/25",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "ven 05/12/25",
+    "start": "09:00",
+    "end": "12:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 05/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Fondamenti di programmazione",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "mar 09/12/25",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 09/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Fondamenti di programmazione",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "mer 10/12/25",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 10/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "ADAMO SALVATORE",
+    "module": "Sistemi operativi: Windows",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "ven 12/12/25",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Linguaggi web",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "ven 12/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Fondamenti di programmazione",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "lun 15/12/25",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PASTI ELEONORA",
+    "module": "Soft skills 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "lun 15/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "PIVA ANTONIO",
+    "module": "Informatica giuridica",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "mar 16/12/25",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 16/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Sistemi operativi: Linux",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 17/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "ADAMO SALVATORE",
+    "module": "Sistemi operativi: Windows",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "gio 18/12/25",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "CRISTIANO ANTONIO",
+    "module": "Gestione del processo formativo 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "gio 18/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "ven 19/12/25",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "ven 19/12/25",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Sistemi operativi: Linux",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 07/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Linguaggi web",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mer 07/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "ADAMO SALVATORE",
+    "module": "Sistemi operativi: Windows",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "gio 08/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 08/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "ven 09/01/26",
+    "start": "09:00",
+    "end": "12:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 09/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Sistemi operativi: Linux",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "lun 12/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "lun 12/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "mar 13/01/26",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 13/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Sistemi operativi: Linux",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 14/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Linguaggi web",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mer 14/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 15/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 15/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "ADAMO SALVATORE",
+    "module": "Sistemi operativi: Windows",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "ven 16/01/26",
+    "start": "09:00",
+    "end": "12:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 16/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Sistemi operativi: Linux",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "lun 19/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "lun 19/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "mar 20/01/26",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 20/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Sistemi operativi: Linux",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 21/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 21/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 22/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 22/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "ADAMO SALVATORE",
+    "module": "Sistemi operativi: Windows",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "ven 23/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Linguaggi web",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "ven 23/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "TISSINO LORIS",
+    "module": "Sistemi operativi: Linux",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "lun 26/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "lun 26/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Linguaggi web",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mar 27/01/26",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 27/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "VALCHER ANDREA-MASSIMO",
+    "module": "Architettura dell'informazione",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mer 28/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "mer 28/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 29/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 29/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "ADAMO SALVATORE",
+    "module": "Sistemi operativi: Windows",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "ven 30/01/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Linguaggi web",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "ven 30/01/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "lun 02/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "lun 02/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "ADAMO SALVATORE",
+    "module": "Sistemi operativi: Windows",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 03/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 03/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "VALCHER ANDREA-MASSIMO",
+    "module": "Architettura dell'informazione",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mer 04/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 04/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 05/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 05/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "ADAMO SALVATORE",
+    "module": "Sistemi operativi: Windows",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "ven 06/02/26",
+    "start": "09:00",
+    "end": "12:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 06/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "lun 09/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "lun 09/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "VALCHER ANDREA-MASSIMO",
+    "module": "Architettura dell'informazione",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mar 10/02/26",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 10/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "ADAMO SALVATORE",
+    "module": "Sistemi operativi: Windows",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 11/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "SCAINI GIOVANNI",
+    "module": "Networking",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 11/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 12/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 12/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "ven 13/02/26",
+    "start": "09:00",
+    "end": "12:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 13/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 19/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 19/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "ven 20/02/26",
+    "start": "09:00",
+    "end": "12:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 20/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "lun 23/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "DataBase",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "lun 23/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GUASTAMACCHIA MICHELE",
+    "module": "Cybersecurity",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 24/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 24/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Sviluppo distribuito",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mer 25/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PASTI ELEONORA",
+    "module": "Soft skills 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "mer 25/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Sviluppo distribuito",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 26/02/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Linguaggi web",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 26/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "ven 27/02/26",
+    "start": "09:00",
+    "end": "12:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 27/02/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Sviluppo distribuito",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 02/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Linguaggi web",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 02/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GUASTAMACCHIA MICHELE",
+    "module": "Cybersecurity",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 03/03/26",
+    "start": "14:00",
+    "end": "16:00",
+    "teacher": "GUASTAMACCHIA MICHELE",
+    "module": "Cybersecurity",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 03/03/26",
+    "start": "16:00",
+    "end": "18:00",
+    "teacher": "GUASTAMACCHIA MICHELE",
+    "module": "Cybersecurity",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 04/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Linguaggi web",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mer 04/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 05/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 05/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "ven 06/03/26",
+    "start": "09:00",
+    "end": "12:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 06/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 09/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Linguaggi web",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 09/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 10/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "TORTELLI SARA",
+    "module": "Copywriting e presentazioni",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mar 10/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GUASTAMACCHIA MICHELE",
+    "module": "Cybersecurity",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 11/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "VALCHER ANDREA-MASSIMO",
+    "module": "Architettura dell'informazione",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mer 11/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 12/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 12/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "ven 13/03/26",
+    "start": "09:00",
+    "end": "12:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 13/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 16/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 16/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mar 17/03/26",
+    "start": "10:00",
+    "end": "13:00",
+    "teacher": "PARKS CHRISTOPHER",
+    "module": "Inglese tecnico 1",
+    "subject": "Competenze di base - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "mar 17/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GUASTAMACCHIA MICHELE",
+    "module": "Cybersecurity",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 18/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "TORTELLI SARA",
+    "module": "Copywriting e presentazioni",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mer 18/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 19/03/26",
+    "start": "09:00",
+    "end": "11:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Object Oriented Programming: C#",
+    "subject": "Coding",
+    "class": ""
+  },
+  {
+    "day": "gio 19/03/26",
+    "start": "11:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "ven 20/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "ven 20/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "VALCHER ANDREA-MASSIMO",
+    "module": "Architettura dell'informazione",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 23/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 23/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 24/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "VALCHER ANDREA-MASSIMO",
+    "module": "Architettura dell'informazione",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mar 24/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GUASTAMACCHIA MICHELE",
+    "module": "Cybersecurity",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 25/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "TORTELLI SARA",
+    "module": "Copywriting e presentazioni",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mer 25/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 26/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 26/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GUASTAMACCHIA MICHELE",
+    "module": "Cybersecurity",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "ven 27/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Project work 1",
+    "subject": "Project work - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 27/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 30/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 30/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mar 31/03/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 31/03/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Project work 1",
+    "subject": "Project work - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "mer 01/04/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "TORTELLI SARA",
+    "module": "Copywriting e presentazioni",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mer 01/04/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 02/04/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 02/04/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mar 07/04/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 07/04/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Project work 1",
+    "subject": "Project work - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "mer 08/04/26",
+    "start": "14:00",
+    "end": "17:00",
+    "teacher": "TORTELLI SARA",
+    "module": "Copywriting e presentazioni",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 09/04/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 09/04/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "ven 10/04/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Project work 1",
+    "subject": "Project work - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 10/04/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 13/04/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "lun 13/04/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "mar 14/04/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mar 14/04/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "PAPINI MAURIZIO",
+    "module": "Virtualizzazione",
+    "subject": "IT Fundamentals",
+    "class": ""
+  },
+  {
+    "day": "mer 15/04/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Project work 1",
+    "subject": "Project work - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "mer 15/04/26",
+    "start": "14:00",
+    "end": "17:00",
+    "teacher": "TORTELLI SARA",
+    "module": "Copywriting e presentazioni",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 16/04/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "gio 16/04/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "DOTTOR ANDREA",
+    "module": "Sviluppo web server side",
+    "subject": "Web Development",
+    "class": ""
+  },
+  {
+    "day": "ven 17/04/26",
+    "start": "09:00",
+    "end": "13:00",
+    "teacher": "GIACOMAZZI ENRICO",
+    "module": "Project work 1",
+    "subject": "Project work - Anno 1",
+    "class": ""
+  },
+  {
+    "day": "ven 17/04/26",
+    "start": "14:00",
+    "end": "18:00",
+    "teacher": "BETTO DIEGO",
+    "module": "Javascript",
+    "subject": "Web Development",
+    "class": ""
+  }
+]
