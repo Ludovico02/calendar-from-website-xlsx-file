@@ -6,6 +6,13 @@ export default function WeekView({ data }) {
 
     console.log("Data from Calendar: ", data);
 
+    const getMonday = (date) => {
+        date = new Date(date);
+        const day = date.getDay();
+        const diff = date.getDate() - day + (day === 0 ? -6 : 1);
+        return new Date(date.setDate(diff));
+    }
+
     return (
         <div className="week-grid">
             {days.map(day => (
