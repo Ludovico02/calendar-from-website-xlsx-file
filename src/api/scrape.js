@@ -55,7 +55,7 @@ export async function scrape() {
 * Questo è uno screenshot della pagina attuale in futuro posso creare un server locale che ogni tot tempo va a fare lo scraping di nuovo per vedere eventuali aggiornamenti
 */
 scrape().then((data) => {
-    fs.writeFileSync("./src/api/timetable.json", JSON.stringify(data, null, 2));
+    fs.writeFileSync("../data/timetable.json", JSON.stringify(data, null, 2));
     console.log("Dati salvati su file json");
 });
 

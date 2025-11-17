@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { scrape } from "../../api/scrape";
+import { fetchTimetable } from "../../api/api";
 import WeekView from "./WeekView";
 
 export default function Calendar() {
@@ -7,14 +7,17 @@ export default function Calendar() {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        async function fetchTimetable() {
-            const response = await fetch();
-            const data = await response.json();
+        async function getData() {
+            const data = await fetchTimetable();
             setData(data);
         }
 
-        fetchTimetable();
-    }, [])
+        getData();
+    }, []);
+
+    useEffect(() => {
+        console.log(data);
+    }, [data]);
 
     return (
         <div>
