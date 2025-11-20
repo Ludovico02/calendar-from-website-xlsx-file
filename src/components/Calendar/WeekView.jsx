@@ -37,9 +37,23 @@ export default function WeekView({ data, counter }) {
 
     return (
         <div className="week-grid">
+            <div className="hours-from-9-to-18">
+                <h3>Time</h3>
+                {[...Array(9)].map((_, i) => (
+                    <p key={i + 9} className="hour-number">{i + 9}</p>
+                ))}
+            </div>
             {days.map((day, i) => (
                 <div key={day} className="day-column">
                     <h3>{`${day} ${currentWeekView[i]}`}</h3>
+                    <p>{data[1]?.teacher}</p>
+                    <p>{data[1]?.teacher}</p>
+                    <p>{data[1]?.teacher}</p>
+                    <p>{data[1]?.teacher}</p>
+                    <p>{data[1]?.teacher}</p>
+                    <p>{data[1]?.teacher}</p>
+                    <p>{data[1]?.teacher}</p>
+                    <p>{data[1]?.teacher}</p>
                     <p>{data[1]?.teacher}</p>
                 </div>
             ))}
