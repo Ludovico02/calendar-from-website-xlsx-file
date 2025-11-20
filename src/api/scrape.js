@@ -8,12 +8,15 @@ export async function scrape() {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     
-    // apro la pagina e aspetto che ci siano al massimo ancora 2 richieste in elaborazione, così sono sicuro che la pagina abbia caricato tutto
+    // apro la pagina e aspetto che ci siano al massimo ancora 2 richieste in elaborazione 
+    // così sono sicuro che la pagina abbia caricato tutto
     await page.goto(url, { waitUntil: "networkidle2" });
 
     /*
     * Aspetto che venga generato un bottone con la proprietà data-course="fust" e lo clicco
-    * Sono costretto a fare così visto che la pagina viene cancellata e rigenerata quando il bottone viene cliccato, sarebbe stato meglio avere direttamente il link, ma il sito non funziona così
+    * Sono costretto a fare così visto che la pagina viene cancellata e rigenerata quando il 
+    * bottone viene cliccato, sarebbe stato meglio avere direttamente il link
+    * ma il sito non funziona così
     */
     await page.waitForSelector("[data-course='fust']");
     await page.click("[data-course='fust']");
@@ -52,7 +55,8 @@ export async function scrape() {
 /*
 * Salvo i dati su un file JSON
 * Farò il fetch di questo file su calendar
-* Questo è uno screenshot della pagina attuale in futuro posso creare un server locale che ogni tot tempo va a fare lo scraping di nuovo per vedere eventuali aggiornamenti
+* Questo è uno screenshot della pagina attuale in futuro posso creare un server locale 
+* che ogni tot tempo va a fare lo scraping di nuovo per vedere eventuali aggiornamenti
 */
 scrape().then((data) => {
     fs.writeFileSync("../data/timetable.json", JSON.stringify(data, null, 2));
