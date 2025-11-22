@@ -10,10 +10,9 @@ const parseDateString = (dateString) => {
     return `${month}/${day}/20${year}`;
 }
 
-export default function ListView() {
+export default function ListView({ onReturnHome }) {
     const [data, setData] = useState([]);
     const [filteredData, setFilteredData] = useState([]);
-    const currentDate = new Date();
 
     useEffect(() => {
         async function getData() {
@@ -36,6 +35,7 @@ export default function ListView() {
 
     return (
         <div className="full-list-table">
+            <button onClick={onReturnHome}>Home</button>
             <table>
                 <thead>
                     <tr>
