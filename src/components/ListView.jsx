@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { fetchTimetable } from "../api/api";
+import "../css/ListView.css";
 
 const parseDateString = (dateString) => {
     const datePart = dateString.trim().slice(-8);
