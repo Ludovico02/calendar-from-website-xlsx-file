@@ -1,14 +1,7 @@
 import { useEffect, useState } from "react";
 import { fetchTimetable } from "../api/api";
 import "../css/ListView.css";
-
-const parseDateString = (dateString) => {
-    const datePart = dateString.trim().slice(-8);
-    const parts = datePart.split("/");
-    const [day, month, year] = parts;
-    
-    return `${month}/${day}/20${year}`;
-}
+import parseDateString from "../utils/datesUtiilities";
 
 export default function ListView({ onReturnHome }) {
     const [data, setData] = useState([]);
