@@ -1,6 +1,6 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import "../../css/WeekView.css"
-import parseDateString from "../../utils/datesUtiilities"; // modificare il nome
+import parseDateString, { getMonday } from "../../utils/datesUtilities";
 import LectureCard from "../LectureCard";
 import LectureModal from "../LectureModal";
 
@@ -9,14 +9,6 @@ export default function WeekView({ data, counter }) {
     const currentDate = new Date();
     const [currentWeekView, setCurrentWeekView] = useState(Array(5).fill(new Date()));
     const [selectedLecture, setSelectedLecture] = useState(null);
-
-    // Finds first day of the week (monday) and shifts it according to the week we want to see
-    const getMonday = (date, shift) => {
-        date = new Date(date);
-        const day = date.getDay();
-        const diff = date.getDate() - day + (day === 0 ? -6 : 1) + shift;
-        return new Date(date.setDate(diff));
-    }
 
     const getCurrentViewWeek = (shift) => {
         const firstDay = getMonday(currentDate, shift);
@@ -33,20 +25,27 @@ export default function WeekView({ data, counter }) {
         }));
     }
 
+    const filteredData = useMemo(() => {
+        return currentWeekView.map((currentDayOfTheWeek) => (
+            data.filter((el) => {
+                const parsedDate = new Date(parseDateString(el.day));
+                parsedDate.setHours(0, 0, 0, 0);
+                
+                return parsedDate.getTime() === currentDayOfTheWeek.getTime();
+            })
+        ));
+    }, [data, currentWeekView]);
+
     useEffect(() => {
         getCurrentViewWeek(counter * 7);
     }, [counter]);
-
-    useEffect(() => {
-        getCurrentViewWeek(0);
-    }, []);
 
     return (
         <div>
             <div className="week-grid">
                 <div className="hours-from-9-to-18">
                     <h3>Time</h3>
-                    {[...Array(9)].map((_, i) => (
+                    {[...Array(10)].map((_, i) => (
                         <p key={i + 9} className="hour-number">{i + 9}</p>
                     ))}
                 </div>
@@ -54,12 +53,8 @@ export default function WeekView({ data, counter }) {
                     <div key={day + i} className="day-column">
                         <h3>{`${day} ${currentWeekView[i].getDate()}/${currentWeekView[i].getMonth()}`}</h3>
                         <div className="display-lecture">
-                            {data.filter((el) => {
-                                const parsedDate = new Date(parseDateString(el.day));
-                                parsedDate.setHours(0, 0, 0, 0);
-                                return parsedDate.getTime() === currentWeekView[i].getTime();
-                            }).map((el) => (
-                                <LectureCard key={i + el.day + el.teacher} data={el} onClick={() => setSelectedLecture(el)} />
+                            {filteredData[i].map((el, i) => (
+                                <LectureCard key={i + el.day} data={el} onClick={() => setSelectedLecture(el)} />
                             ))}
                         </div>
                     </div>

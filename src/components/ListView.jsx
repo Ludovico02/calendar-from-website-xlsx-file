@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { fetchTimetable } from "../api/api";
 import "../css/ListView.css";
-import parseDateString from "../utils/datesUtiilities";
+import parseDateString from "../utils/datesUtilities";
 
 export default function ListView({ onReturnHome }) {
     const [data, setData] = useState([]);
