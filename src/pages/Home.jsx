@@ -12,7 +12,7 @@ export default function Home() {
     // Temporary I will implement re-routing
     return (
         <div>
-            { view === "" && (
+            {/* { view === "" && (
                     <div>
                         <button onClick={() => setView("calendar")}>Calendar</button>
                         <button onClick={() => setView("list")}>List</button>
@@ -22,7 +22,9 @@ export default function Home() {
             <div>
                 { view === "calendar" && <Calendar onReturnHome={resetView} /> }
                 { view === "list" && <ListView onReturnHome={resetView} /> }
-            </div>
+            </div> */}
+
+            <Calendar onReturnHome={resetView} />
         </div>
     )
 }
