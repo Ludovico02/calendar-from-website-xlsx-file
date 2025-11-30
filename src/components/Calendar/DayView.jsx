@@ -76,7 +76,10 @@ export default function DayView({ data }) {
                         <button onClick={() => changeDay(1)}>&gt;</button>
                     </div>
                 </header>
-                <div className="calendar">
+                <div 
+                    className="calendar"
+                    style={{"--start-hour": 8, "--end-hour": 18, " --resolution": 2}}
+                >
                     <div className="calendar-hours-grid">
                         {hoursGrid.map((hour, i) => (
                             <div key={hour + i} className="calendar-hour">
